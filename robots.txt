@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /flooring-quote/
+Crawl-delay: 1
+
+Sitemap: https://flooring-quotes.ca/sitemap-index.xml
